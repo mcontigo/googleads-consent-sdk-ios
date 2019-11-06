@@ -9,6 +9,4 @@ Pod::Spec.new do |s|
  s.source = { :git => "https://git.mcontigo.com/libs/ios-wp.git", :tag => "v1.0.3" }
  s.platforms = { :ios => "10.0" }
  s.requires_arc = true
-
- end
 end
